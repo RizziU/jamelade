@@ -11,6 +11,6 @@
     "test": "node --test login-email-assist.test.js login-email.test.js page-hook.test.js persistence.test.js security.test.js session-vault.test.js"
   },
   "devDependencies": {
-    "electron": "git+https://github.com/castlabs/electron-releases.git#8244344c33634d9323377c0d0fd1d9b7f9b69540"
+    "electron": "git+https://github.com/castlabs/electron-releases.git#bbb3862120430db6fa3ffa1ce22c3b66fe99e0b8"
   }
 }
